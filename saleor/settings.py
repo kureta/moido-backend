@@ -519,6 +519,7 @@ PLUGINS = [
     "saleor.payment.gateways.razorpay.plugin.RazorpayGatewayPlugin",
     "saleor.payment.gateways.adyen.plugin.AdyenGatewayPlugin",
     "saleor.plugins.invoicing.plugin.InvoicingPlugin",
+    "asseco_est.plugin.AssecoEST",
 ]
 
 # Plugin discovery
